@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "variant": "nordebra",
+    "files": [],
+    "revision": 1,
+    "generation": "v8",
+    "executable": "bin/client.exe"
+}
